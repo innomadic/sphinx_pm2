@@ -1,0 +1,47 @@
+:mod:`app`
+==========
+
+.. py:module:: app
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   app.Application
+
+
+
+
+Attributes
+~~~~~~~~~~
+
+.. autoapisummary::
+
+   app.my_app
+
+
+.. class:: Application
+
+   this class is very usefu because it does so many things
+
+   .. method:: function1(self, name)
+
+      this function does something
+
+
+   .. method:: function2(self)
+
+      this other function does something else
+
+
+
+.. data:: my_app
+   
+
+   
+
