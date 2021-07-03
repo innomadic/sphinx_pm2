@@ -15,7 +15,7 @@ We've worked really hard on this game, and we hope you **enjoy** it.
    :caption: Contents:
 
    install
-
+   contribute
 
 
 Indices and tables
